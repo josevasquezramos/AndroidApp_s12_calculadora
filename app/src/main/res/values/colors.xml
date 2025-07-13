@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Fondo principal -->
+    <color name="background">#F4F4F4</color>
+
+    <!-- Texto primario -->
+    <color name="textPrimary">#212121</color>
+
+    <!-- Botones numéricos -->
+    <color name="buttonNumber">#FFFFFF</color>
+    <color name="buttonNumberText">#212121</color>
+
+    <!-- Botones de operación (+, -, ×, ÷) -->
+    <color name="buttonOperator">#E0E0E0</color>
+    <color name="buttonOperatorText">#000000</color>
+
+    <!-- Botón igual "=" -->
+    <color name="buttonEquals">#116AB3</color>
+    <color name="buttonEqualsText">#FFFFFF</color>
+
+    <!-- Botones especiales (C, DEL) -->
+    <color name="buttonC">#FFCDD2</color>
+    <color name="buttonCText">#B00020</color>
+
+    <color name="buttonDel">#FFE1CD</color>
+    <color name="buttonDelText">#B04100</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base para la app -->
+    <style name="Base.Theme.AndroidApp_s12_calculadora" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Fondo principal oscuro -->
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/buttonEquals</item>
+        <item name="colorOnPrimary">@color/buttonEqualsText</item>
+        <item name="colorSecondary">@color/buttonOperator</item>
+        <item name="colorOnSecondary">@color/buttonOperatorText</item>
+
+        <item name="android:statusBarColor">@color/background</item>
+    </style>
+
+    <style name="Theme.AndroidApp_s12_calculadora" parent="Base.Theme.AndroidApp_s12_calculadora" />
+</resources>
